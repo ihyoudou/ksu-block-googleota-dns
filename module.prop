@@ -1,0 +1,6 @@
+id=ksu-block-google-ota
+name=Block Google OTA hosts
+version=v1
+versionCode=1
+author=matt
+description=Block battery-draining google ota service on pixel-like devices.
